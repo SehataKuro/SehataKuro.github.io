@@ -1,5 +1,6 @@
 .body {
     font-family: sans-serif;
+    background-color: #f2f2f2;
         
 }
 
@@ -9,16 +10,15 @@
 }
 
 .unko0 {
-    background-color: #FFF;
     color: #F5DF4D;
     font-size: 20px;
     margin: 0;
     padding: 40px;
 }
 .footer {
-    background-color: #FFF;
     color: #F5DF4D;
     font-size: 12px;
     margin: 0;
     padding: 40px;
+    text-align: center;
 }
