@@ -1,16 +1,17 @@
 body {
     font-family: sans-serif;
-    background-color: #f2f2f2;
+    background-color: #edd8e0;
         
 }
 
 header {
     margin: 0;
-    padding: 30px;
+    padding: 10px;
+	color: #2c2f41;
 }
 
 footer {
-    color: #F5DF4D;
+    color: #7abfff;
     font-size: 12px;
     margin: 0;
     padding: 20px;
