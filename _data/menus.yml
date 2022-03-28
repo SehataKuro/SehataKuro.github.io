@@ -1,0 +1,12 @@
+- default: menu_index
+  url: 'index'
+
+- default: menu_category
+  url: 'categories'
+
+- title: 'Contact'
+  absoluteUrl: true
+  url: 'https://twitter.com/messages/1031932278862053376-1460701725975666690'
+
+- default: menu_about
+  url: 'about'
