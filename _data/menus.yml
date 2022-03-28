@@ -10,3 +10,9 @@
 
 - default: menu_about
   url: 'about'
+
+- title: 'Game'
+  url: 'game.html'
+
+- title: 'SNS'
+  url: 'sns.html'
