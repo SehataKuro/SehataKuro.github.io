@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "玉転がし"
+date: 2022-03-09
+last_modified_at: 2022-03-30
+categories: [game]
+tags: [game, unity]
+---
+
+矢印キーを使ってボールを操作するゲームです。
+
+[・ここをクリックして始める](/game1/index.html)
+
+[・1週間でちゃんと完成する「初めてのゲームづくり」でオススメの進め方（無料のUnity活用編）](https://note.com/unityjapan/n/n157e58f5167a)
+
+このサイトを参考にしました。
+
+制作期間： 2時間
