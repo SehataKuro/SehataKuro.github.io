@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ホームページのレイアウトを一新した"
-date:   2022-03-28
+date: 2022-03-28
 last_modified_at: 2022-03-28
 categories: [other]
 tags: [github pages, jekyll]
