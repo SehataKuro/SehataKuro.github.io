@@ -8,16 +8,20 @@
 
 html,
 body {
+  background: #fff;
+  color: #000;
   height: 100%;
 }
 
 a {
-  text-decoration: none;
+  text-decoration:underline;
   color: #000;
 }
 
 a:hover {
-  color: #aaa;
+  background: #000;
+  color: #fff;
+  transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 
 blockquote {
