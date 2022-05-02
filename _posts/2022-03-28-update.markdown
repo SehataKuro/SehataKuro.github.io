@@ -11,7 +11,7 @@ tags: [github pages, jekyll]
 
 今まではHTMLを手打ちしていましたが、jekyllっていうやつを使ってみました。これを使うと、ブログ記事みたいなのが量産できるっぽいです。
 
-[・Markdownで執筆できるブログをJekyll + Github Pagesで公開する](https://tech.fusic.co.jp/posts/jekyll-githubpages/)
+- [Markdownで執筆できるブログをJekyll + Github Pagesで公開する](https://tech.fusic.co.jp/posts/jekyll-githubpages/)
 
 これとかを参考にしました。
 

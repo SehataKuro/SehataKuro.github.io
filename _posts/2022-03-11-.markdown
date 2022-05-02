@@ -11,9 +11,9 @@ Spaceキーもしくは左クリックを使ってジャンプをして、飛ん
 
 イラストは[ちょのゆし](https://twitter.com/chonoyushi)さんに描いてもらいました。
 
-[・ここをクリックして始める](/FlappyBird/index.html)
+- [ここをクリックして始める](/FlappyBird/index.html)
 
-[・【Unity2D】Flappy Bird を作るチュートリアル (1/3)](https://qiita.com/2dgames_jp/items/59b361cf430d3dc6584b)
+- [【Unity2D】Flappy Bird を作るチュートリアル (1/3)](https://qiita.com/2dgames_jp/items/59b361cf430d3dc6584b)
 
 このサイトを参考にしました。
 
