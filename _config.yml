@@ -25,7 +25,7 @@ language: ja
 
 analytics: # the Google Analytics property ID, e.g. UA-XXXXX-Y
 
-comments: true # enable comments
+comments: false # enable comments
 disqus: '@disqus_EvpLlZzTTj' # disqus account
 
 mathjax: true # Math support
