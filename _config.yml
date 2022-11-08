@@ -23,7 +23,7 @@ language: ja
 # zh-tw: 繁體中文 (Traditional Chinese)
 # ko : 한국어 (Korean)
 
-analytics: # the Google Analytics property ID, e.g. UA-XXXXX-Y
+analytics: G-FCTQ6VV6QN # the Google Analytics property ID, e.g. UA-XXXXX-Y
 
 comments: false # enable comments
 disqus: '@disqus_EvpLlZzTTj' # disqus account

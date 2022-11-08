@@ -2,6 +2,13 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 {% seo %}
+<meta property="og:url" content="" />
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:type" content="article">
+<meta property="og:description" content="{{ page.description }}" />
+<meta property="og:image" content="{{ page.image }}" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@sehatakuro" />
 {% if site.keywords or page.tags %}
 <meta
   name="keywords"
@@ -27,7 +34,7 @@
   rel="stylesheet"
   type="text/css"
   href="{{ site.baseurl }}/assets/css/highlight.css" />
-
+<link rel="stylesheet" href="/assets/css/cocoen.min.css" />
 <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
@@ -42,6 +49,15 @@
 {% endif %}
 {% if site.diagram %}
 <script src="/assets/scripts/jekyllpaper.js" async></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js" async></script>
+<!-- https://github.com/koenoe/cocoen/tree/v2.0.5 -->
+<script src="/assets/scripts/cocoen.min.js" async></script>
+<script src="/assets/scripts/cocoen-jquery.min.js" async></script>
+<script>
+window.onload = function(){
+  $('.cocoen').cocoen();
+};
+</script>
 <script
   src="https://unpkg.com/mermaid@8.5.1/dist/mermaid.min.js"
   onload="javascript:loadMermaid();"
