@@ -5,6 +5,8 @@ date: 2022-03-11
 last_modified_at: 2022-03-30
 categories: [game]
 tags: [game, unity]
+image: ""
+description: ""
 ---
 
 Spaceキーもしくは左クリックを使ってジャンプをして、飛んでくる核を避けるゲームです。

@@ -5,6 +5,8 @@ date: 2022-03-28
 last_modified_at: 2022-03-28
 categories: [other]
 tags: [github pages, jekyll]
+image: ""
+description: ""
 ---
 
 ホームページのレイアウトをめちゃくちゃ変えました。おしゃれでしょ。
@@ -18,4 +20,3 @@ tags: [github pages, jekyll]
 テーマもいっぱいあるし、簡単に作れておすすめです。
 
 前のデータもおいおい移行しようと思います。
-

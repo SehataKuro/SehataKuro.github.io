@@ -5,6 +5,8 @@ date: 2022-05-02
 last_modified_at: 2022-05-02
 categories: [music]
 tags: [music, playlist]
+image: ""
+description: ""
 ---
 
 最近Spotifyのプレイリストで毎月の好きな曲を作るのが流行ってるらしいので、ぼくも真似しよと思ってやってみようと思います。
@@ -20,13 +22,12 @@ tags: [music, playlist]
 ## 目次
 
 - [目次](#目次)
-- [渋谷系アニソンとは？](#渋谷系アニソンとは？)
+- [渋谷系アニソンとは？](#渋谷系アニソンとは)
 - [ワンピース大好き](#ワンピース大好き)
-- [人力vocaloid](#人力vocaloid)
+- [人力VOCALOID](#人力vocaloid)
 - [ドナルドはブックオフにはまってる？](#ドナルドはブックオフにはまってる)
 - [ニコメドの音像](#ニコメドの音像)
 - [宣伝](#宣伝)
-
 
 ## 渋谷系アニソンとは？
 
@@ -49,7 +50,6 @@ tags: [music, playlist]
 イルル大好きです。
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3vd4D9VTKsRsnMyYouf3Ip?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
 
 あと、このDJmixがとっても良かったです。
 
@@ -104,6 +104,7 @@ tags: [music, playlist]
 なにか、嫌味のない前向きな気持ちにさせてくれる。
 
 ***
+
 ## 人力VOCALOID
 
 人力っていいですよね。
