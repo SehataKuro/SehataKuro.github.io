@@ -5,7 +5,7 @@ date: 2022-12-02
 last_modified_at: 2022-12-02
 categories: [mad]
 tags: [tech]
-image: "https://github.com/SehataKuro/SehataKuro.github.io/blob/main/madcommentary/%E3%82%B5%E3%82%A4%E3%83%88%E7%94%A8%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB.png"
+image: "https://cdn.discordapp.com/attachments/490855625211772934/1047906336869990520/5865b913149c7c15.png"
 description: "この企画は、普段見ている動画の表現の疑問を受け付けて、勝手に編集後記を書くことで解決しよう！という企画です。"
 ---
 
