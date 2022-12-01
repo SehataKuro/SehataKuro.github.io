@@ -2,6 +2,7 @@
 #
 # This is the configuration file for your blog, please change these items after forked.
 
+timezone: Asia/Tokyo
 title: 気合い気合い気合い
 email: 
 name: SehataKuro
