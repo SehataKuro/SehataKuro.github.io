@@ -180,7 +180,7 @@ Aviutlを使ってこの図形の再現を解説します。
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             hacococoさんの動画特有の光や色調と絶妙なボカシやブラーってどうやればできるんでしょうか？
@@ -192,7 +192,7 @@ Aviutlを使ってこの図形の再現を解説します。
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_hacocone.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_hacocone.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             特有というか完全に癖でやってることなんですが、VegasProのエフェクト「ソフトコントラスト」「明るさとコントラスト」「HitFilm Bleach Bypass」「ホワイトグロウ」「カラー曲線」をほぼ必ずかけてます。あと、ブラーはそこまでかけてません。
@@ -248,7 +248,7 @@ Aviutlを使ってこの図形の再現を解説します。
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             この動画の0:15~0:28の背景の四角形のレイアウトを大小するのってどうやってやってるんですか？
@@ -258,9 +258,9 @@ Aviutlを使ってこの図形の再現を解説します。
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_niggerofpokemon.png" alt="" ></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_niggerofpokemon.png" alt="" ></td>
         <td>&nbsp;</td>
-        <td valign="top"><img src="/madcommentary/emoji_shizue.webp" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/emoji_shizue.webp" alt=""></td>
         <td>&nbsp;</td>
         <td>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</td>
     </tr>
@@ -268,7 +268,7 @@ Aviutlを使ってこの図形の再現を解説します。
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_leaf_62289.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_leaf_62289.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             拡大率と座標でゴリ押してたなぁ
@@ -359,7 +359,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             堕ちる堕ちるでいっぱい文字でてくるとこ（無数のオブジェクトの配置について）、
@@ -379,7 +379,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_c44095762.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_c44095762.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             インドア系ならマキシマイザーでは、徹夜の労働で（瞼が）堕ちる！（眠りに）堕ちる！といったストーリーを比喩したかったので、真っ黒なフォントで視界が覆いつくされるような表現を目指しました。<br>
@@ -394,7 +394,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_c44095762.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_c44095762.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             マーシャル・マキシマイザーの音MADではマーシャル・バトルドーマーのキネポをリスペクトするのがノルマのようになっていたのですが、そのまま再現するのも面白くないなと思い、少しひねってこちらのキネポを採用することになりました。<br>
@@ -413,7 +413,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             顔面が宇宙人のように変化する部分の、使用ソフトや工程、意識していることなどについて教えてください！
@@ -423,7 +423,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_hapimashi0131.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_hapimashi0131.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             ご質問ありがとうございます<br>
@@ -441,7 +441,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_hapimashi0131.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_hapimashi0131.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             このように、元のキャラの各パーツを塊ごとにシェイプレイヤーでなぞって再構成します。
@@ -453,7 +453,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_hapimashi0131.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_hapimashi0131.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             次に、パスにキーフレームを打って、一つ一つパスを変形させることで違う形を作っていきます。今回は「YUH」を「ばけものYUH」にモーフィングさせてみました。
@@ -465,7 +465,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_hapimashi0131.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_hapimashi0131.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             この時点で、このようなアニメーションになります。<br>
@@ -479,7 +479,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_hapimashi0131.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_hapimashi0131.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             そこで最後に、すべてのパスのキーフレームのグラフの形を変更します。初速を0、途中で最大速になって、止まるときも速度0、とすることで、途中の不格好な部分を隠してにゅっ！とモーフィングできました。
@@ -498,7 +498,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             0:58の後ろにある四角形4つが消える箇所と，1:01の画面下右側から飛び出した三角形が細かい三角形になり消える部分の、使用ソフトや工程、意識していることなどについて教えてください！
@@ -508,7 +508,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_etsuranyou12345.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_etsuranyou12345.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             【使用ソフト】<br>
@@ -570,7 +570,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             シャロ、サターニャ、しまりんが映るウィンドウの出し方の、使用ソフトや工程、意識していることなどについて教えてください！
@@ -580,7 +580,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_mochaml.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_mochaml.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             使用ツール:Adobe AfterEffects 2019<br>
@@ -617,7 +617,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             影莉央さんのキャラクターの良さを引き出すような歌詞改変やセリフ合わせを作るうえで、意識していることや参考にしているものなどについて教えてください！
@@ -627,7 +627,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_kagerio1.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_kagerio1.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
         【前提】<br>
@@ -666,7 +666,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             0:20~0:39について、きれいな二値化をするための使用ソフトや工程、意識していることなどについて教えてください！
@@ -676,7 +676,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_hadkimi_.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_hadkimi_.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             了解です！近日中に文章にまとめて送ります　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
@@ -688,7 +688,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             <img src="/madcommentary/linestamp.png" alt="">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
@@ -698,7 +698,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_hadkimi_.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_hadkimi_.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             pf無くしててワロタなんだけど　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<br>
@@ -709,7 +709,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_sehatakuro.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             なにか特殊な方法で二値化してたんですか？　　　　　　　　　　　　　　　　　　　　　　　　　
@@ -719,7 +719,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
 
 <table>
     <tr>
-        <td valign="top"><img src="/madcommentary/icon_hadkimi_.png" alt=""></td>
+        <td valign="top" width="80"><img src="/madcommentary/icon_hadkimi_.png" alt=""></td>
         <td>&nbsp;</td>
         <td>
             AviUtlの2値化（ティム）を使っただけだとは思う<br>
