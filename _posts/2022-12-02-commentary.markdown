@@ -437,7 +437,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
     </tr>
 </table>
 
-[![img](/madcommentary/NYDBIgBrother_1.png)](/madcommentary/NYDBIgBrother_1.png)
+[![img](/madcommentary/NYDBigBrother_1.png)](/madcommentary/NYDBigBrother_1.png)
 
 <table>
     <tr>
@@ -449,7 +449,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
     </tr>
 </table>
 
-[![img](/madcommentary/NYDBIgBrother_2.png)](/madcommentary/NYDBIgBrother_2.png)
+[![img](/madcommentary/NYDBigBrother_2.png)](/madcommentary/NYDBigBrother_2.png)
 
 <table>
     <tr>
@@ -461,7 +461,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
     </tr>
 </table>
 
-[![img](/madcommentary/NYDBIgBrother_3.gif)](/madcommentary/NYDBIgBrother_3.gif)
+[![img](/madcommentary/NYDBigBrother_3.gif)](/madcommentary/NYDBigBrother_3.gif)
 
 <table>
     <tr>
@@ -475,7 +475,7 @@ Aeの線プラグインを使って文字が書かれているようなアニメ
     </tr>
 </table>
 
-[![img](/madcommentary/NYDBIgBrother_4.gif)](/madcommentary/NYDBIgBrother_4.gif)
+[![img](/madcommentary/NYDBigBrother_4.gif)](/madcommentary/NYDBigBrother_4.gif)
 
 <table>
     <tr>
