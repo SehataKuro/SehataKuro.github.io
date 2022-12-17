@@ -9,7 +9,7 @@ image: "https://cdn.discordapp.com/attachments/490855625211772934/10479063368699
 description: "この企画は、普段見ている動画の表現の疑問を受け付けて、勝手に編集後記を書くことで解決しよう！という企画です。"
 ---
 
-この記事は音MAD Advent Calendar 2022に参加しています！
+この記事は[音MAD Advent Calendar 2022](https://adventar.org/calendars/7965)に参加しています！
 
 この企画は、普段見ている動画の表現の疑問を受け付けて、勝手に編集後記を書くことで解決しよう！という企画です。
 
