@@ -24,7 +24,7 @@ description: ""
 - [おすすめスクリプト](#おすすめスクリプト)
   - [無料スクリプト](#無料スクリプト)
   - [有料スクリプト](#有料スクリプト)
-  - [その他](#その他)
+- [その他](#その他)
 
 
 
@@ -170,7 +170,7 @@ Flowにプラスして中間点の設定ができる感じのスクリプト。F
 
 この人はMRMbarの開発者で、他にもいろいろなツールを出してる。
 
-### その他
+## その他
 
 Ae juiceやMotion broとかボタンぽちーでトランジションやアニメーションを作れるものがある。音MADの映像ならこれでいいかも。人によってはこれをたくさん買ってる人もいる。
 
@@ -178,3 +178,8 @@ Ae juiceやMotion broとかボタンぽちーでトランジションやアニ�
 
 ただ、無料版で使えるものはそこまでないし、Ae臭さみたいな物になるのでぼくはあまり使わない。あと、内部のファイルが多いっぽくてこれらのせいでAe壊れた。
 
+- 追記
+
+UIがないスクリプトを使いやすくする方法があるらしいです。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">例えばこの辺のスクリプトはUIがない、朝倉すぐるさんがサイトで配布してるスクリプトとかもない<a href="https://t.co/a0GF7dmAmo">https://t.co/a0GF7dmAmo</a><a href="https://t.co/psUiffFBwb">https://t.co/psUiffFBwb</a><br><br>いちいちメニューバーから実行するのがめんどくさいからランチャーで実行できるようにしておきたい<a href="https://t.co/jDMa4wq00E">https://t.co/jDMa4wq00E</a></p>&mdash; アニメ大好き！ (@NimeaTakuo) <a href="https://twitter.com/NimeaTakuo/status/1613445669343367169?ref_src=twsrc%5Etfw">January 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
