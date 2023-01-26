@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "【合作】ガヴめっど【音MAD】"
+date: 2022-01-09
+last_modified_at: 2023-01-25
+categories: [works]
+tags: [mad]
+image: "/works/gabmedsamune.png"
+description: ""
+---
+
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm39877085/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm39877085">【合作】ガヴめっど【音MAD】</a></noscript>
+
+主催,サムネイル,ロゴ,映像まとめ,1-チルミルチルノ

@@ -87,6 +87,7 @@ ja:
   menu_index: 'Index'
   menu_category: 'Category'
   menu_about: 'About'
+  menu_works: 'Works'
   paginator_previous: '前のページ'
   paginator_pages: 'ページ数：'
   paginator_next: '次のページ'
