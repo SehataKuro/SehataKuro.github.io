@@ -9,7 +9,7 @@ permalink: /works/
   <ul class="posts-panel-item">{% for post in site.categories.works %}
     <div class="panel-padding">
       <a href="{{ post.url }}"><div class="panel-item" style="position: relative;">
-        <img src= "{{ post.image }}">
+        <img src= "{{ post.thumb }}">
         <div class="posts-list-item-name" style="position: absolute; top: 0; left: 0;">{{ post.title }}</div>
         <div class="posts-list-item-date" style="position: absolute; bottom: 0; right: 0;"> {{ post.date | date: "%Y-%m-%d" }}</div>
       </div></a>

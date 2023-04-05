@@ -6,6 +6,7 @@ last_modified_at: 2023-01-25
 categories: [works]
 tags: [mad]
 image: "/works/sm38595473.jpg"
+thumb: "/thumbs/sm38595473.png"
 description: ""
 ---
 

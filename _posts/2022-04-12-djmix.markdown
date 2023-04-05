@@ -6,6 +6,7 @@ last_modified_at: 2023-01-25
 categories: [works]
 tags: [music]
 image: "/works/20220412Djmix.jpg"
+thumb: "/thumbs/20220412Djmix.png"
 description: ""
 ---
 

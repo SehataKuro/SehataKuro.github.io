@@ -6,6 +6,7 @@ last_modified_at: 2023-01-25
 categories: [works]
 tags: [music]
 image: "/works/mashupyona.jpg"
+thumb: "/thumbs/mashupyona.png"
 description: ""
 ---
 
