@@ -12,4 +12,6 @@ description: ""
 
 <script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm39877085/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm39877085">【合作】ガヴめっど【音MAD】</a></noscript>
 
+![Alt text](/works/gabmedsamune.png)
+
 主催,サムネイル,ロゴ,映像まとめ,1-チルミルチルノ
