@@ -16,5 +16,7 @@ description: ""
 <https://archive.org/details/lf205mp3>
 <https://lostfrog.bandcamp.com/album/hyperflip-overture>
 
+制作期間:2022/5/30~2023/2/25
+
 これは初期に作ったデモ版です。
 <https://on.soundcloud.com/REGax>
