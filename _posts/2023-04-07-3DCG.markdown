@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "3DCG"
+date: 2023-04-07
+last_modified_at: 2023-04-07
+categories: [works]
+tags: []
+image: ""
+thumb: "/thumbs/zundamon.png"
+description: ""
+---
+
+<video controls width="100%" autoplay loop muted="true" src="/works/2023-04-06%2022-42-05.mp4" type="video/mp4" >
+ Sorry, your browser doesn't support embedded videos.
+</video>
+
+そのほかCG関係のツイート
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ずんだもん <a href="https://twitter.com/hashtag/256fes?src=hash&amp;ref_src=twsrc%5Etfw">#256fes</a> <a href="https://t.co/36CM0q4v2K">pic.twitter.com/36CM0q4v2K</a></p>&mdash; せはた (@SehataKuro) <a href="https://twitter.com/SehataKuro/status/1644769605628628994?ref_src=twsrc%5Etfw">April 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/NPGgyzELPl">pic.twitter.com/NPGgyzELPl</a></p>&mdash; せはた (@SehataKuro) <a href="https://twitter.com/SehataKuro/status/1644770545584730112?ref_src=twsrc%5Etfw">April 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/FFw5gVWQtE">pic.twitter.com/FFw5gVWQtE</a></p>&mdash; せはた (@SehataKuro) <a href="https://twitter.com/SehataKuro/status/1641502310726791168?ref_src=twsrc%5Etfw">March 30, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
