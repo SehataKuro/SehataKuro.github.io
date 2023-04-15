@@ -39,23 +39,26 @@
 
   .posts-list-item-date {
     position: absolute;
+    bottom: 0; right: 5px
   }
   
   .posts-list-item-name {
     position: absolute;
+    top: 0; left: 5px;
   }
 
   img {
     box-shadow: initial;
     transform: initial;
     margin: initial;
+    border-radius: 10px;
   }
 }
 
 .panel-item:hover {
   div{
     color: #FFF;
-    transform: scale(0.9);
+    transform: scale(1.0);
     opacity: 1;
     transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
   }
