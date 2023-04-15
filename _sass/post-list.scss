@@ -30,9 +30,25 @@
 .panel-item {
   width: 160px;
   height: 160px;
+  position: relative;
+  
   div{
     transform: scale(1.2);
     opacity: 0;
+  }
+
+  .posts-list-item-date {
+    position: absolute;
+  }
+  
+  .posts-list-item-name {
+    position: absolute;
+  }
+
+  img {
+    box-shadow: initial;
+    transform: initial;
+    margin: initial;
   }
 }
 
@@ -57,10 +73,4 @@
   object-fit: cover;
 }
 
-.panel-item {
-  img {
-    box-shadow: initial;
-    transform: initial;
-    margin: initial;
-  }
-}
+

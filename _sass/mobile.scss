@@ -22,4 +22,58 @@
   .footer-copyright .float-right {
     float: none;
   }
+
+  .posts-panel-item {
+    display: block;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .panel-item {
+    width: 100%;
+    height: 160px;
+    position: relative;
+
+    img {
+      width: 160px;
+      height: 160px;
+    }
+
+    div {
+      transform: scale(1.0);
+      opacity: 100;
+    }
+
+    .posts-list-item-date {
+      position: absolute;
+      bottom: 0; right: 0;
+    }
+    
+    .posts-list-item-name {
+      position: absolute;
+      top: 0; left: 180px;
+    }
+  }
+
+  .panel-item:hover {
+    div{
+      color: #000;
+      transform: scale(1.0);
+      opacity: 100;
+      transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    }
+  
+    img{
+      filter: brightness(100%);
+      transform: rotate(0deg);
+      transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    }
+  }
+
+  a:hover {
+    background: #000;
+    color: #000;
+  }
 }
+
+

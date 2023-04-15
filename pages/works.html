@@ -8,10 +8,10 @@ permalink: /works/
   <h1 class="page-title">{{ site.data.lang[site.language].menu_works }}</h1>
   <ul class="posts-panel-item">{% for post in site.categories.works %}
     <div class="panel-padding">
-      <a href="{{ post.url }}"><div class="panel-item" style="position: relative;">
+      <a href="{{ post.url }}"><div class="panel-item">
         <img src= "{{ post.thumb }}">
-        <div class="posts-list-item-name" style="position: absolute; top: 0; left: 0;">{{ post.title }}</div>
-        <div class="posts-list-item-date" style="position: absolute; bottom: 0; right: 0;"> {{ post.date | date: "%Y-%m-%d" }}</div>
+        <div class="posts-list-item-name">{{ post.title }}</div>
+        <div class="posts-list-item-date"> {{ post.date | date: "%Y-%m-%d" }}</div>
       </div></a>
     </div>
     {% endfor %}
