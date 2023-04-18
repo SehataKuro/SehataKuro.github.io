@@ -13,3 +13,7 @@ description: ""
 <script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm40139496/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm40139496">月夜の再創世記【バカヤロイド合作】</a></noscript>
 
 R1~R4 映像
+
+<video controls width="100%" autoplay loop muted="true" src="/works/sm40139496.mp4" type="video/mp4" >
+ Sorry, your browser doesn't support embedded videos.
+</video>

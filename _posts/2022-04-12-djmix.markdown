@@ -3,7 +3,7 @@ layout: post
 title:  "20220412 Djmix ラ・ビ・アン・ローズ"
 date: 2022-04-12
 last_modified_at: 2023-01-25
-categories: [works]
+categories: [music]
 tags: [music]
 image: "/works/20220412Djmix.jpg"
 thumb: "/thumbs/20220412Djmix.png"

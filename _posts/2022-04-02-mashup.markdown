@@ -3,7 +3,7 @@ layout: post
 title:  "【MASHUP】快感フレンズを添えるだけ【EYE × ぼくのフレンド】"
 date: 2022-04-02
 last_modified_at: 2023-01-25
-categories: [works]
+categories: [music]
 tags: [music]
 image: "/works/mashupeye.jpg"
 thumb: "/thumbs/mashupeye.png"

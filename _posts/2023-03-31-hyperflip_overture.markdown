@@ -3,7 +3,7 @@ layout: post
 title:  "HYPERFLIP OVERTURE - 舟をこぐ"
 date: 2023-03-31
 last_modified_at: 2023-03-31
-categories: [works]
+categories: [music]
 tags: [music]
 image: "/works/hyperflip_overture.jpg"
 thumb: "/thumbs/hyperflip_overture.png"

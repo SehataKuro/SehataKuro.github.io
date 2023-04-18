@@ -3,7 +3,7 @@ layout: post
 title:  "20220407 Djmix おしゃべりぽぽちゃん vs. うるさいオタク"
 date: 2022-04-07
 last_modified_at: 2023-01-25
-categories: [works]
+categories: [music]
 tags: [music]
 image: "/works/20220407djmix.png"
 thumb: "/thumbs/20220407djmix.png"

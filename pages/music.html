@@ -1,0 +1,19 @@
+---
+layout: default
+title: Music
+permalink: /music/
+---
+
+<article class="container-page">
+  <h1 class="page-title">{{ site.data.lang[site.language].menu_music }}</h1>
+  <ul class="posts-panel-item">{% for post in site.categories.music %}
+    <div class="panel-padding">
+      <a href="{{ post.url }}"><div class="panel-item">
+        <img src= "{{ post.thumb }}">
+        <div class="posts-list-item-name">{{ post.title }}</div>
+        <div class="posts-list-item-date"> {{ post.date | date: "%Y-%m-%d" }}</div>
+      </div></a>
+    </div>
+    {% endfor %}
+  </ul>
+</article>
