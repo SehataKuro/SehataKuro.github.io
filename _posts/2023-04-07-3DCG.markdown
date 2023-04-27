@@ -6,7 +6,7 @@ last_modified_at: 2023-04-07
 categories: [works]
 tags: []
 image: ""
-thumb: "/thumbs/zundamon.png"
+thumb: "/thumbs/zunndamon.gif"
 description: ""
 ---
 
@@ -14,8 +14,28 @@ description: ""
  Sorry, your browser doesn't support embedded videos.
 </video>
 
-そのほかCG関係のツイート
+Blenderを使った歩行アニメーション
+制作時間2時間
 
 <blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/NPGgyzELPl">pic.twitter.com/NPGgyzELPl</a></p>&mdash; せはた (@SehataKuro) <a href="https://twitter.com/SehataKuro/status/1644770545584730112?ref_src=twsrc%5Etfw">April 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+ずんだもんのローポリキャラクターモデリング
+制作時間1日
+アニメーションはMixamoです
+
 <blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/FFw5gVWQtE">pic.twitter.com/FFw5gVWQtE</a></p>&mdash; せはた (@SehataKuro) <a href="https://twitter.com/SehataKuro/status/1641502310726791168?ref_src=twsrc%5Etfw">March 30, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+mocopiをつかったモーションの流し込み
+MotionBuilderを使用
+
+![Alt text](/thumbs/yun01.png)
+
+![Alt text](/thumbs/yun02.png)
+
+![Alt text](/thumbs/yun03.png)
+
+![Alt text](/thumbs/yun04.png)
+
+飯島ゆんの3Dモデル素体
+製作途中
+ここまでの制作期間1週間
