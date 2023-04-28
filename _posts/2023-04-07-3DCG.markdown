@@ -28,13 +28,7 @@ Blenderを使った歩行アニメーション
 mocopiをつかったモーションの流し込み
 MotionBuilderを使用
 
-![Alt text](/thumbs/yun01.png)
-
-![Alt text](/thumbs/yun02.png)
-
-![Alt text](/thumbs/yun03.png)
-
-![Alt text](/thumbs/yun04.png)
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">すごいいい感じ <a href="https://t.co/dxKR4OGEdB">pic.twitter.com/dxKR4OGEdB</a></p>&mdash; せはた (@SehataKuro) <a href="https://twitter.com/SehataKuro/status/1651972418733498368?ref_src=twsrc%5Etfw">April 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 飯島ゆんの3Dモデル素体
 製作途中
