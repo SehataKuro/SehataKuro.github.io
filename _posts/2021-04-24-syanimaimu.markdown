@@ -3,7 +3,7 @@ layout: post
 title:  "【合作】シャニマスマイムマイム【音MAD】"
 date: 2021-04-24
 last_modified_at: 2023-01-25
-categories: [works]
+categories: [mad]
 tags: [mad]
 image: "/works/sm38631451.jpg"
 thumb: "/thumbs/sm38631451.png"

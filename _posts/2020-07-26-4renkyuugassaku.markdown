@@ -3,7 +3,7 @@ layout: post
 title:  "祝「我慢の4連休合作」外出自粛を　新型コ口ナウイルス"
 date: 2020-07-26
 last_modified_at: 2023-01-25
-categories: [works]
+categories: [mad]
 tags: [mad]
 image: "/works/sm37252542.jpg"
 thumb: "/thumbs/sm37252542.png"

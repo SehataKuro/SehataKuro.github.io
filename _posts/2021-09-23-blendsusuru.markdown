@@ -3,7 +3,7 @@ layout: post
 title:  "ブレンド・SUSURU"
 date: 2021-09-23
 last_modified_at: 2023-01-25
-categories: [works]
+categories: [mad]
 tags: [mad]
 image: "/works/sm39376474.jpg"
 thumb: "/thumbs/sm39376474.png"

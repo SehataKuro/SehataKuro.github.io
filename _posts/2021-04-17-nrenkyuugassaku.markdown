@@ -3,7 +3,7 @@ layout: post
 title:  "n晩合作の再開催「するつもりはない」　冬眠財務相"
 date: 2021-04-17
 last_modified_at: 2023-01-25
-categories: [works]
+categories: [mad]
 tags: [mad]
 image: "/works/sm38595473.jpg"
 thumb: "/thumbs/sm38595473.png"

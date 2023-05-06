@@ -3,7 +3,7 @@ layout: post
 title:  "とりっくおあとりーとーっ！！！"
 date: 2021-11-01
 last_modified_at: 2023-01-25
-categories: [works]
+categories: [mad]
 tags: [mad]
 image: "/works/sm39563350.jpg"
 thumb: "/thumbs/sm39563350.png"
