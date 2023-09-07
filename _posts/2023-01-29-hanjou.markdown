@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "【悲報】はんじょう、何者かに勝手に合作にされてしまう……【2023/01/29】"
+date: 2023-01-29
+last_modified_at: 2023-09-07
+categories: [works]
+tags: [mad]
+image: ""
+thumb: "/thumbs/hanjou1.png"
+description: ""
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RIEITPxthQY?si=Xk4z5nQDc-aE1u8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+サムネイル、映像まとめ、その他雑用
+
+![Alt text](/works/hanjou1.png)
+
+![Alt text](/works/hanjou2.png)
+

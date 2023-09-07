@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "【合作】FavHoloMædⅣ Amethyst"
+date: 2023-09-07
+last_modified_at: 2023-09-07
+categories: [works]
+tags: [mad, hololive]
+image: ""
+thumb: "/thumbs/favholo.png"
+description: ""
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W1M5-U5JRfU?si=Z22zzIkE1LFit_gr&amp;start=151" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+2:32~3:00
+
+映像のみ担当
+
+音声パートはneonさん
+
+<https://twitter.com/neon_uriel>
+
+<https://www.nicovideo.jp/user/36791879>
+
+制作期間:2023/8/29~2023/9/03
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMJ_8VihV0E?si=k998oI9_HWlGmRDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

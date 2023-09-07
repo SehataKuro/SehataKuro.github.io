@@ -14,6 +14,8 @@ description: ""
 
 R1~R4 映像
 
+音声は別の人です
+
 <video controls width="100%" autoplay loop muted="true" src="/works/sm40139496.mp4" type="video/mp4" >
  Sorry, your browser doesn't support embedded videos.
 </video>
