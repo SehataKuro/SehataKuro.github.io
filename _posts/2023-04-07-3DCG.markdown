@@ -3,7 +3,7 @@ layout: post
 title:  "3DCG"
 date: 2023-04-07
 last_modified_at: 2023-04-07
-categories: [works]
+categories: []
 tags: []
 image: ""
 thumb: "/thumbs/zunndamon.gif"
