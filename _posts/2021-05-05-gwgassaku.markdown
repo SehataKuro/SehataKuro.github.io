@@ -14,4 +14,6 @@ description: ""
 
 主催,映像まとめ,音声まとめ,22-Panic! Pop'n! Picnic!
 
-![Alt text](/works/GWGGIF.gif)
+<video controls width="100%" autoplay loop muted="true" src="/works/GWG.mp4" type="video/mp4" >
+ Sorry, your browser doesn't support embedded videos.
+</video>
