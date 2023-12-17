@@ -3,7 +3,7 @@ layout: post
 title:  "月夜の再創世記【バカヤロイド合作】"
 date: 2022-02-28
 last_modified_at: 2023-01-25
-categories: [works]
+categories: [personal-works]
 tags: [mad]
 image: "/works/sm40139496.jpg"
 thumb: "/thumbs/sm40139496.png"

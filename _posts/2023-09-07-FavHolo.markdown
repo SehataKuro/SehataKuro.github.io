@@ -3,7 +3,7 @@ layout: post
 title:  "【合作】FavHoloMædⅣ Amethyst"
 date: 2023-09-07
 last_modified_at: 2023-09-07
-categories: [works]
+categories: [personal-works]
 tags: [mad, hololive]
 image: ""
 thumb: "/thumbs/favholo.png"

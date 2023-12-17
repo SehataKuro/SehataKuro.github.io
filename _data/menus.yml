@@ -1,17 +1,14 @@
-- default: menu_index
-  url: ''
+- default: menu_works
+  url: 'works'
 
-- default: menu_category
-  url: 'categories'
+- default: menu_personal-works
+  url: 'personal-works'
 
 - default: menu_about
   url: 'about'
 
-- default: menu_works
-  url: 'works'
-
-- title: 'SNS'
-  url: 'sns'
+- default: menu_category
+  url: 'categories'
 
 - title: 'Contact'
   url: 'contact'

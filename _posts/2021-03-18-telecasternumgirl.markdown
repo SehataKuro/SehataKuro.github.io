@@ -3,7 +3,7 @@ layout: post
 title:  "テレキャスターナムガール"
 date: 2021-03-18
 last_modified_at: 2023-01-25
-categories: [works]
+categories: [personal-works]
 tags: [mad]
 image: "/works/sm38450329.jpg"
 thumb: "/thumbs/sm38450329.png"

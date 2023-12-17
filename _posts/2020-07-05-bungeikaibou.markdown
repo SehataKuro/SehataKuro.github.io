@@ -3,7 +3,7 @@ layout: post
 title:  "文芸解剖"
 date: 2020-07-05
 last_modified_at: 2023-01-25
-categories: [works]
+categories: [personal-works]
 tags: [mad]
 image: "/works/sm37145298.jpg"
 thumb: "/thumbs/sm37145298.png"

@@ -3,7 +3,7 @@ layout: post
 title:  "Haunted Dance合作祭"
 date: 2021-08-22
 last_modified_at: 2023-09-07
-categories: [works]
+categories: [personal-works]
 tags: [mad]
 image: "/works/HDGGIF.gif"
 thumb: "/works/HDGGIF.gif"

@@ -3,7 +3,7 @@ layout: post
 title:  "ラグとレイン"
 date: 2021-09-04
 last_modified_at: 2023-01-25
-categories: [works]
+categories: [personal-works]
 tags: [mad]
 image: "/works/sm39283556.jpg"
 thumb: "/thumbs/sm39283556.png"

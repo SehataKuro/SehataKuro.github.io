@@ -3,7 +3,7 @@ layout: post
 title:  "【人力+手描き】きゅうくらりん【露崎まひる】"
 date: 2021-12-22
 last_modified_at: 2023-09-07
-categories: [works]
+categories: [personal-works]
 tags: [mad]
 image: "/works/sm39789137.png"
 thumb: "/thumbs/sm39789137.png"

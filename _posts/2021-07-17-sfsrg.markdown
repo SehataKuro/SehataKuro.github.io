@@ -3,7 +3,7 @@ layout: post
 title:  "STAR FRUITS SURF RIDER GIRLS"
 date: 2021-07-17
 last_modified_at: 2023-01-25
-categories: [works]
+categories: [personal-works]
 tags: [mad]
 image: "/works/sm39040925.jpg"
 thumb: "/thumbs/sm39040925.png"

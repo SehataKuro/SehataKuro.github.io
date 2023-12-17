@@ -3,7 +3,7 @@ layout: post
 title:  "【音MAD】1分弱タグ解説動画合作"
 date: 2020-08-09
 last_modified_at: 2023-01-25
-categories: [mad]
+categories: [personal-works]
 tags: [mad]
 image: "/works/sm37323527.jpg"
 thumb: "/thumbs/sm37323527.png"

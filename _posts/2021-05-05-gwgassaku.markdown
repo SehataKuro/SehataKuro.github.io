@@ -3,7 +3,7 @@ layout: post
 title:  "「我慢できないんだと思う」　ＧＷ後半の合作には多くの観光客"
 date: 2021-05-05
 last_modified_at: 2023-01-25
-categories: [works]
+categories: [personal-works]
 tags: [mad]
 image: "/works/GWGGIF.gif"
 thumb: "/works/GWGGIF.gif"

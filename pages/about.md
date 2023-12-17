@@ -4,13 +4,14 @@ title: About
 permalink: /about/
 ---
 
+- 上甲愛士 / Manato Joko
 
-音MAD作ってます。
+  - 愛媛県出身
 
-昔、強烈誘拐っていうグループに参加していました。
+  - 映像制作 / コンポジット・アニメ撮影 / デザイン
 
-ホロライブのMV作ったことあります。
+- [Twitter](https://twitter.com/SehataKuro)
 
-[![Alt text](/assets/img/ebi.gif)](/assets/img/ebi.gif)
+- [ニコニコ動画](https://www.nicovideo.jp/user/51449711)
 
-[![画像](/assets/img/20210704_170202.jpg)](https://cdn.discordapp.com/attachments/856921357245743165/972059015641194516/unknown_8.png)
+- [YouTube](https://www.youtube.com/channel/UCgYk3N3vZIellOdbNFjoliA)
