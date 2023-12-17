@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-- sehatakuro@gmail.com
+- e-mail: sehatakuro@gmail.com
 
-- [TwitterのDMに飛びます](https://twitter.com/messages/compose?recipient_id=1031932278862053376)
+- discord: s8t
