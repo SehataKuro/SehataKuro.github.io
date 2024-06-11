@@ -14,7 +14,6 @@ description: ""
 
 コンポジット全般、タイトルロゴの原案・文字組みを担当
 
-
 <video controls width="100%" autoplay loop muted="true" src="/works/bitekamubite.mp4" type="video/mp4" >
  Sorry, your browser doesn't support embedded videos.
 </video>

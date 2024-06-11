@@ -3,7 +3,7 @@ layout: post
 title:  "二晩合作"
 date: 2022-03-07
 last_modified_at: 2023-09-07
-categories: [personal-works]
+categories: []
 tags: [mad]
 image: "/works/sm40143810.jpg"
 thumb: "/thumbs/sm40143810.png"

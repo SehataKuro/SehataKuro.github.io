@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "に​ゃ​つ​ー - Life ain't all that bad"
+date: 2024-01-19
+last_modified_at: 2024-06-11
+categories: [music]
+tags: [music]
+image: "/works/.jpg"
+thumb: "/thumbs/.png"
+description: ""
+---
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1803733170&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nyaanime" title="にゃあにめ" target="_blank" style="color: #cccccc; text-decoration: none;">にゃあにめ</a> · <a href="https://soundcloud.com/nyaanime/life-aint-all-that-bad" title="にゃつー - Life ain&#x27;t all that bad" target="_blank" style="color: #cccccc; text-decoration: none;">にゃつー - Life ain&#x27;t all that bad</a></div>
+
+[LF215MP3] V.A. - FASTFUSION
+<https://archive.org/details/lf215mp3>
+<https://lostfrog.bandcamp.com/album/car-crash-and-siren>
+
+[あ２](https://soundcloud.com/a2two)との合作です

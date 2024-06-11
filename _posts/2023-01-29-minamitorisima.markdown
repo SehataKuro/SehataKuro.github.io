@@ -3,7 +3,7 @@ layout: post
 title:  "【必見】ボム兵の戦場にまつわる衝撃の真実が明らかに！【合作】"
 date: 2023-02-18
 last_modified_at: 2023-09-07
-categories: [personal-works]
+categories: []
 tags: [mad]
 image: ""
 thumb: "/thumbs/minamitorisima1.png"
