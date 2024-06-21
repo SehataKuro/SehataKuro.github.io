@@ -90,6 +90,14 @@ Overloadを買ったのでイラレでいろいろ組んでみたかっただけ
 
 ![alt text](/works/hirogaruholo/18_001.png)
 
+mocopiで適当に収録しました。
+
+[https://note.com/tomsawyer100/n/n2357e88dfffc#ccea74f4-804f-4997-b81a-d9a5b6b4c288](https://note.com/tomsawyer100/n/n2357e88dfffc#ccea74f4-804f-4997-b81a-d9a5b6b4c288)
+
+今回はBVH流し込みでblender上で無理やり作ったので、ボーンの構造が破綻していても何とかなりましたが、
+
+ゲームエンジンとかでリアルタイムに流しこみする場合、上のリンクを参考にpmx➡fbx➡unity上でhumanoid化➡vrmにしたほうがいいです。
+
 19.太陽系デスコ　エンディング　映像・デザイン・文字組み
 
 ![alt text](/works/hirogaruholo/19_001.png)
