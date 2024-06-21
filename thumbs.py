@@ -2,7 +2,7 @@ from io import BytesIO
 from PIL import Image
 import os
 import io
-import_filepath = 'works'
+import_filepath = 'images'
 export_filepath = 'thumbs'
 for f in os.listdir(import_filepath):
     base, ext = os.path.splitext(f)
