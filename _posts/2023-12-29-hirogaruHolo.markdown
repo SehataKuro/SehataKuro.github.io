@@ -88,6 +88,8 @@ Overloadを買ったのでイラレでいろいろ組んでみたかっただけ
 
 18.Baqeela　ラプラス・ダークネスの3Dモデルのアニメーション
 
+![alt text](/works/hirogaruholo/18_001.png)
+
 19.太陽系デスコ　エンディング　映像・デザイン・文字組み
 
 ![alt text](/works/hirogaruholo/19_001.png)
