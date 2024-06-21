@@ -2,7 +2,7 @@
 layout: post
 title:  "【音MAD】#ひろがるホロ合作【ホロライブ】"
 date: 2023-12-29
-last_modified_at: 2024-06-11
+last_modified_at: 2024-06-22
 categories: [personal-works]
 tags: [mad, hololive]
 image: "/images/20231229.png"
