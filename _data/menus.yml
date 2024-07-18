@@ -1,14 +1,14 @@
 - default: menu_works
-  url: 'works'
+  url: ""
 
 - default: menu_personal-works
-  url: 'personal-works'
+  url: "personal-works"
 
 - default: menu_about
-  url: 'about'
+  url: "about"
 
 - default: menu_category
-  url: 'categories'
+  url: "categories"
 
-- title: 'Contact'
-  url: 'contact'
+- title: "Contact"
+  url: "contact"
