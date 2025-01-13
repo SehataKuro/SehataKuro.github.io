@@ -8,14 +8,13 @@ permalink: /about/
 
   - 愛媛県出身
 
-  - 映像制作 / コンポジット・アニメ撮影 / デザイン
+  - 映像制作 / コンポジット・アニメ撮影 / デザイン / スクリプト作成
 
 - [Twitter](https://twitter.com/SehataKuro)
 
 - [ニコニコ動画](https://www.nicovideo.jp/user/51449711)
 
 - [YouTube](https://www.youtube.com/channel/UCgYk3N3vZIellOdbNFjoliA)
-
 
 <html>
     <head>
@@ -46,7 +45,7 @@ permalink: /about/
 
         <br>
         <br>
-    
+
         <div class="image-container">
             <svg id="color_0" width="1000" height="1000" fill="#ffffed">
                 <rect class="cls-1" x="446.46" y="55.81" width="18.6" height="18.6"></rect>
@@ -134,8 +133,8 @@ permalink: /about/
             </svg>
         </div>
     </body>
-</html>
 
+</html>
 
 <script>
     function changeColor(index) {
@@ -187,8 +186,3 @@ permalink: /about/
         });
     });
 </script>
-
-
-
-
-
