@@ -11,3 +11,5 @@ Gemfile.lock
 
 # Mac OSX
 .DS_store
+
+.images
