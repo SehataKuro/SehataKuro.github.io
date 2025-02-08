@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-- e-mail: sehatakuro@gmail.com
+- お問い合わせはこちらからお願いいたします
 
-- discord: s8t
-
-- <https://www.foriio.com/sehatakuro>
+- [https://forms.gle/B8HVpoiSzwu2NcCN7](https://forms.gle/B8HVpoiSzwu2NcCN7)
