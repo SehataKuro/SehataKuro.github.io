@@ -3,7 +3,7 @@ from PIL import Image
 import os
 import io
 
-import_filepath = ".images"
+import_filepath = "thumbsimport"
 export_filepath = "thumbs"
 for f in os.listdir(import_filepath):
     base, ext = os.path.splitext(f)

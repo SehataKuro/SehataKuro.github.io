@@ -4,7 +4,7 @@ title:  "さくらみこ x 兎田ぺこら - モッシュレース【ホロラ�
 date: 2023-01-27
 last_modified_at: 2023-01-27
 categories: [works]
-tags: [mad]
+tags: [mad, hololive]
 image: "/works/moshrace.png"
 thumb: "/thumbs/moshrace.gif"
 description: ""

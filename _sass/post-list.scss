@@ -18,11 +18,12 @@
 }
 
 .posts-panel-item {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
 
 }
+
 .panel-padding {
   padding: 10px;
 }
@@ -31,49 +32,49 @@
   width: 160px;
   height: 160px;
   position: relative;
-  
-  div{
+
+  div {
     transform: scale(1.2);
     opacity: 0;
   }
 
   .posts-list-item-date {
     position: absolute;
-    bottom: 0; right: 5px
+    bottom: 0;
+    right: 5px
   }
-  
+
   .posts-list-item-name {
     position: absolute;
-    top: 0; left: 5px;
+    top: 0;
+    left: 5px;
   }
 
   img {
     box-shadow: initial;
     transform: initial;
     margin: initial;
-    border-radius: 10px;
+    border-radius: 4px;
   }
 }
 
 .panel-item:hover {
-  div{
+  div {
     color: #FFF;
     transform: scale(1.0);
     opacity: 1;
     transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
   }
 
-  img{
+  img {
     filter: brightness(30%);
     transform: rotate(5deg);
     transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
   }
 }
 
-.panel-item img {    
+.panel-item img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
-
-

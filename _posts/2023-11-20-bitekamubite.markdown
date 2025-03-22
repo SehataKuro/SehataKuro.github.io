@@ -4,7 +4,7 @@ title:  "BITE! カム! BITE! || HAKOS BAELZ x INUGAMI KORONE"
 date: 2023-11-20
 last_modified_at: 2023-11-29
 categories: [works]
-tags: [mad]
+tags: [hololive]
 image: "/works/bitekamubite.png"
 thumb: "/thumbs/bitekamubite.gif"
 description: ""
